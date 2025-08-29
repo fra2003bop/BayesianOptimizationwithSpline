@@ -8,6 +8,6 @@ Si crea il potenziale problema che andando a moltiplicare l'arcotangente per num
 
 Forse inoltre, converebbe impedire di andare a visionare punti troppo vicini a punti già esplorati, oppure andare a cambiare il peso attraverso la quale si modifica sigma, che però per tutte le esplorazioni ho mantenuto standard.
 
-Probabilmente il \simga su f_18 andrebbe ingrandito. In realtà converebbe andare a trovare un algoritmo per migliorarlo, considerando che non si reisce a vedere l'incertezza, se non epr valori molto grandi. Inoltre visto il carattere  sinusoidale, il comportamento per aggiornare sigma non funziona correttamente.
+Probabilmente il \simga su f_18 andrebbe ingrandito. In realtà converebbe andare a trovare un algoritmo per migliorarlo, considerando che non si riesce a vedere l'incertezza, se non per valori molto grandi. Inoltre visto il carattere  sinusoidale, il comportamento per aggiornare sigma non funziona correttamente.
 
 Andrebbe creato inoltre algoritmo migliore per gestire incertezza di \sigma. Nonostante sulle funzioni analizzate, quest'ultimo si è sempre rivelato efficiente.
